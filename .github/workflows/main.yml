@@ -4,7 +4,7 @@ on:
   push:
     branchs: ["master"]
 
-  workflow_dipatch: 
+  workflow_dispatch: 
 
 permissions:
   content: red
